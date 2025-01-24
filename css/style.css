@@ -41,3 +41,19 @@ body {
     width: 45px;
     height: 45px;
 }
+.button_js{
+    text-align: center;
+}
+#myButton{
+    border: none;
+    border-radius: 15px;
+    width: 150px;
+    height: 50px;
+    background-color: chartreuse;
+    font-weight: bold;
+}
+
+#demo img{
+    margin-top:20px;
+    width: 25%;
+}
